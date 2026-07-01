@@ -94,6 +94,12 @@ a:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visib
   letter-spacing: 0.02em;
   color: var(--color-cream);
 }
+.brand-mark-img {
+  height: 40px;
+  width: auto;
+  display: block;
+  flex-shrink: 0;
+}
 .brand-mark {
   width: 42px;
   height: 42px;
