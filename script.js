@@ -4,9 +4,9 @@
    updating in one place if it ever changes.
    ============================================================ */
 const CLINIC = {
-  phone: "917014015715",          // international format for wa.me links
-  phoneDisplay: "+91 70140 15715",
-  tel: "tel:+917014015715",
+  phone: "919799933503",          // international format for wa.me links
+  phoneDisplay: "+91 97999 33503",
+  tel: "tel:+919799933503",
   email: "info@nathhomeopathy.in", // placeholder — update if a real inbox exists
   mapLink: "https://maps.app.goo.gl/LCDe3njFEArwp9gP8",
   address: "Laxmi Market, Near Arabiyon Ki Masjid, Near Archana Colour Lab, Kuchilpura, Bikaner - 334001, Rajasthan"
