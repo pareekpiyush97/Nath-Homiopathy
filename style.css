@@ -578,9 +578,9 @@ legend { font-weight: 700; margin-bottom: 12px; font-family: var(--font-heading)
 /* ---------------- Patient video stories ---------------- */
 .video-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 22px;
-  max-width: 1080px;
+  max-width: 820px;
   margin: 0 auto;
 }
 .video-card {
