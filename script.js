@@ -115,12 +115,20 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 
-/* Pause other videos when one starts playing */
+/* Video slideshow: pause others on play, halt sliding while watching */
 document.addEventListener("DOMContentLoaded", () => {
   const vids = document.querySelectorAll(".video-card video");
+  const track = document.querySelector(".video-track");
+  const anyPlaying = () => Array.from(vids).some((v) => !v.paused && !v.ended);
   vids.forEach((v) => {
     v.addEventListener("play", () => {
       vids.forEach((o) => { if (o !== v) o.pause(); });
+      if (track) track.classList.add("paused");
     });
+    ["pause", "ended"].forEach((ev) =>
+      v.addEventListener(ev, () => {
+        if (track && !anyPlaying()) track.classList.remove("paused");
+      })
+    );
   });
 });
