@@ -113,3 +113,14 @@ document.addEventListener("DOMContentLoaded", () => {
     err.textContent = text;
   }
 });
+
+
+/* Pause other videos when one starts playing */
+document.addEventListener("DOMContentLoaded", () => {
+  const vids = document.querySelectorAll(".video-card video");
+  vids.forEach((v) => {
+    v.addEventListener("play", () => {
+      vids.forEach((o) => { if (o !== v) o.pause(); });
+    });
+  });
+});
