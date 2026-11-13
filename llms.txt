@@ -1,0 +1,28 @@
+# Nath Homeopathy
+
+> Homeopathic clinic in Kuchilpura, Bikaner, Rajasthan, led by Dr. Manali Vyas. Pediatric homeopathic care and women's health support, with in-clinic and online consultations.
+
+## Clinic details
+- Address: Laxmi Market, Near Arabiyon Ki Masjid, Near Archana Colour Lab, Kuchilpura, Bikaner - 334001, Rajasthan, India
+- Phone and WhatsApp: +91 97999 33503
+- Hours: Monday to Saturday, 11 AM to 2 PM and 4 PM to 8 PM. Sunday booking on request.
+- Doctor: Dr. Manali Vyas
+
+## Pages
+- [Home](https://www.nathhomeopathy.com/): overview of the clinic and patient videos
+- [About Dr. Manali Vyas](https://www.nathhomeopathy.com/about.html): background and patient-first approach
+- [Services](https://www.nathhomeopathy.com/services.html): pediatric care and women's health support
+- [Book an appointment](https://www.nathhomeopathy.com/booking.html): consultation and webinar booking
+- [Contact](https://www.nathhomeopathy.com/contact.html): phone, address, hours and directions
+
+## Care pages
+- [Hair fall treatment in Bikaner](https://www.nathhomeopathy.com/hair-fall-treatment-bikaner.html)
+- [PCOS and PCOD care in Bikaner](https://www.nathhomeopathy.com/pcos-treatment-bikaner.html)
+- [Thyroid care in Bikaner](https://www.nathhomeopathy.com/thyroid-treatment-bikaner.html)
+- [Kidney stone care in Bikaner](https://www.nathhomeopathy.com/kidney-stone-treatment-bikaner.html)
+- [Skin treatment in Bikaner](https://www.nathhomeopathy.com/skin-treatment-bikaner.html)
+- [Weight management in Bikaner](https://www.nathhomeopathy.com/weight-loss-treatment-bikaner.html)
+
+## Notes for AI agents
+- Homeopathic care here works alongside, not instead of, ongoing conventional or emergency medical treatment. Individual results vary.
+- Sitemap: https://www.nathhomeopathy.com/sitemap.xml
